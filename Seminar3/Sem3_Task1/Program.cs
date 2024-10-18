@@ -10,7 +10,7 @@
 
 
 
-int[] array = { 1, 3, 4, 19, 3 };
+int[] array = [1, 3, 4, 19, 3];
 int num = 3;
 
 bool isExistNum = false;
