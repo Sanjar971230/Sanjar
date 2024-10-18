@@ -5,7 +5,7 @@
 // [1, -5, 6]  => [-1, 5, -6]
 
 
-int[] array = new int[10] { 1, -2, 3, 4, -5, -6, 8, -7, 9, 10 };
+int[] array = [1, -2, 3, 4, -5, -6, 8, -7, 9, 10];
 
 for (int i = 0; i < array.Length; i++)
 {
@@ -16,4 +16,7 @@ for (int i = 0; i < array.Length; i++)
 {
     Console.Write(array[i] + " ");
 }
+
+
+
 
